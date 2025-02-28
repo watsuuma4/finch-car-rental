@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Payment</title>
+</head>
+<body>
+    <form action="payment.php" method="POST">
+        Amount: <input type="text" name="amount" required><br>
+        Payment Method:
+        <select name="paymentMethod" required>
+            <option value="mpesa">MPesa</option>
+            <option value="bank">Bank</option>
+        </select><br>
+        <input type="submit" value="Pay">
+    </form>
+</body>
+</html>

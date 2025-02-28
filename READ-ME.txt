@@ -1,0 +1,38 @@
+Dennis Watsuma, the author and architect of the Finch car rental agency platform has used
+the following plug ins for the client side:
+HTML
+CSS
+PHP
+Bootstap 5
+JavaScript
+JQuerry
+
+Nevertheless, the project does not meet the qualities of the server side thus ascertaning
+the author to use XAMPP software to act as the loacl server. The project has had its table
+of cars for hire on a local simple XAMPP server for the sake of examination and presentation
+of the project.
+
+To succeed in this, open up your XAMPP local server in your machine and start up the APACHE
+servers and the MySQL server domaind. On your local browser open up loacalhost/phpmyadmin
+to have access to the server.
+
+Thats all for the User manual. Good luck John!
+
+
+
+  =>  Project Name       : FICH CAR RENTAL AGENCY - Car Rental Services
+
+  =>  Designer   	       : Dennis  Watsuma 
+
+  =>  Author  	       : Dennis Watsuma 
+
+  =>  Author Website   	 : https://www.webstuck.co.ke
+
+  =>  About Dennis Watsuma : A kenyan software designer working as a freelance since hinerchy.
+
+The contents on the above project are confidential and self proclaimed.
+Any other persons with the renounced copy of the project will be violating
+the copyright code of the ICT rules and ethic of Kenya and beyond.
+
+
+Copyright (c) 2023
